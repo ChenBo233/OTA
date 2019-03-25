@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+					<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+					<plist version="1.0">
+					<dict>
+					<key>items</key>
+					<array>
+					<dict>
+					<key>assets</key>
+					<array>
+                    <dict>
+                        <key>kind</key>
+                        <string>software-package</string>
+                        <key>url</key>
+                        <string>https://app.7daichina.com/sevend/access_qiniu_url/lt3zAnNQwWhTPWqzZF3DMlRoRxOd</string>
+                    </dict>
+                    </array>
+                    <key>metadata</key>
+                    <dict>
+                    <key>bundle-identifier</key>
+                    <string>com.7daichina.sevend</string>
+                    <key>bundle-version</key>
+                    <string>4.8.4</string>
+                    <key>kind</key>
+                    <string>software</string>
+                    <key>releaseNotes</key>
+                    <string>版本注释；发行说明</string>
+                    <key>title</key>
+                    <string>期待合伙人</string>
+                    </dict>
+                    </dict>
+                    </array>
+                    </dict>
+                    </plist>
